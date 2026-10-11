@@ -1,0 +1,1 @@
+# chajai-mini-pos
